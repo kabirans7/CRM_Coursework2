@@ -19,7 +19,7 @@ Hello everyone! This is my second coursework for my final year module Customer R
 
 This coursework focuses on predictive modelling of the price of Amazon stocks, using linear regression techniques and ML in Python via Google Colab. 
 
-To view my coursework codes, please access the CRM_&_CM_CWK2.ipynb file & TaskAQuestionG is being built!
+To view my coursework codes, please access the CRM_&_CM_CWK2.ipynb file & CRM_&_CM_CWK2_TaskAQuestionG is being built!
 
 Thank You! 
 Enjoy!
